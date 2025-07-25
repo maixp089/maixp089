@@ -1,4 +1,4 @@
-## Hi! I'm Mai <img src="https://i.imgur.com/CmIDtmi.gif" width="60" />
+## Hi 👋, I'm Mai<img src="https://i.imgur.com/CmIDtmi.gif" width="60" />
 ### 🐟  About Me
 I'm an aspiring engineer who hopes to contribute to society by turning curiosity into a strength.
 
