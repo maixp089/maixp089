@@ -4,8 +4,8 @@ I'm an aspiring engineer who hopes to contribute to society by turning curiosity
 
 #### Things I Love  
 - 🎣 Fishing and camping
-- 🎮 Game — especially **Monster Hunter**  
-- 📺 Anime — especially **Steins;Gate**  
+- 🎮 Game — especially Monster Hunter 
+- 📺 Anime — especially Steins;Gate 
 - 🍻 Beer and ramen 
 
 ### 🛠️ Tech Stack I've Worked With
